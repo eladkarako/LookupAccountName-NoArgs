@@ -7,9 +7,8 @@ so it won't accepts any arguments.
 
 <hr/>
 
-this is a simpler usage of <code>LookupAccountName-NoArgs</code>.
+this is a simpler usage of <code>LookupAccountNameA</code>!
 
-<br/>
 <hr/>
 
 you should look in this repository: <a href="http://github.com/eladkarako/LookupAccountName-WithArgs/">LookupAccountName-WithArgs</a>,<br/>
