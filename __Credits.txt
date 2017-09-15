@@ -1,0 +1,29 @@
+
+1 VERSIONINFO
+FILEVERSION 5,3,1,0
+PRODUCTVERSION 5,3,1,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "Comments", "LookupAccountName-NoArgs"
+		VALUE "CompanyName", "Elad Karako"
+		VALUE "FileDescription", "writes back to STDOUT the SSID of the current user-name (uses GetUserNameA internally) and computer-name (a.k.a machine-name) (uss GetComputerNameA internally). It accepts no arguments and in case of an error it returns an empty string."
+		VALUE "FileVersion", "5.3.1"
+		VALUE "InternalName", "LookupAccountName-NoArgs"
+		VALUE "LegalCopyright", "© Elad Karako Freeware "
+		VALUE "LegalTrademarks", "Elad Karako® LookupAccountName-NoArgs"
+		VALUE "OriginalFilename", "LookupAccountName-NoArgs.exe"
+		VALUE "ProductName", "Elad Karako® LookupAccountName-NoArgs"
+		VALUE "ProductVersion", "5.3.1"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
